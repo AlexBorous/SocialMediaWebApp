@@ -1777,8 +1777,8 @@ function detectIfPerson(img,type) {
     var faceAPI = {
 
         app: 'hy359',
-        apiKey: 'l2jNgKbk1HXSR4vMzNygHXx2g8c_xT9c',
-        apiSecret: '2T6XdZt4EYw-I7OhmZ6g1wtECl81e_Ip',
+        apiKey: '',
+        apiSecret: '',
         detect: 'https://api-us.faceplusplus.com/facepp/v3/detect'  // POST
     }
     var xhr = new XMLHttpRequest();
